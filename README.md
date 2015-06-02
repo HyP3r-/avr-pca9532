@@ -9,4 +9,4 @@ This is a library for the pwm chip pca9532 from NXP Semiconductors. Written for 
 
 This library depends on the i2c library of [Peter Fleury].
 
-[john gruber]:http://homepage.hispeed.ch/peterfleury/avr-software.html
+[Peter Fleury]:http://homepage.hispeed.ch/peterfleury/avr-software.html
